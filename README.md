@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gefundenes-gluck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Gefundenes Glück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefundenes-gluck/) |
+| **Get License** | [Music Rights & Licensing for Gefundenes Glück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefundenes-gluck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 89cee0f44402b716ad0076cf3ab30126fe23d353
+> Ich seh die City-Lights spiegeln sich in deinem Blick
+> Gefundenes Glück, Baby, es gibt kein Zurück
+> Drück aufs Gaspedal, wir verschwinden in der Nacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
