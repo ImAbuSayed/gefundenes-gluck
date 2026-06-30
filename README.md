@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gefundenes-gluck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Gefundenes Glück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefundenes-gluck/) |
+| **Get License** | [Commercial Licensing for Gefundenes Glück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gefundenes-gluck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `773f258823e2688b0f41417018d18f4756db465d0a277681d27a33b25da5eef6` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
